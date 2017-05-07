@@ -193,7 +193,7 @@ global skip_art;
 global mask_over;
 global defaults;
 
-rmpath(genpath('/usr/public/spm/spm12'));
+% rmpath(genpath('/usr/public/spm/spm12'));
 addpath(genpath('/usr/public/spm/spm8'));
 
 EXPERIMENT_ROOT_DIR = '/home/younglw/lab';
